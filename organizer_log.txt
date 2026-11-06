@@ -1,0 +1,12 @@
+
+Mode: DRY-RUN
+Result: Preview only. No files were moved.
+image.png -> Images/image.png
+sample.txt -> Documents/sample.txt
+--------------------------------------------------
+
+Mode: ACTUAL
+Result: Moved: 2, Skipped: 0
+image.png -> Images/image.png
+sample.txt -> Documents/sample.txt
+--------------------------------------------------
